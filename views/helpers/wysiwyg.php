@@ -35,7 +35,8 @@ class WysiwygHelper extends AppHelper {
 		'Jwysiwyg' => false,
 		'Nicedit' => false,
 		'Markitup' => false,
-		'Tinymce' => false
+		'Tinymce' => false,
+	    	'Ck' => false
 	);
 
 /**
